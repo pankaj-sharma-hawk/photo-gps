@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "377463434144",
+    "project_id": "photo-gps-demo",
+    "storage_bucket": "photo-gps-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377463434144:android:095ba606c113ba0dd792c5",
+        "android_client_info": {
+          "package_name": "com.mycompany.photogpsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377463434144-nrgrg01trmk7pnbpl713heceku2vhlip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.photogpsdemo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "377463434144-6coaa7dqnhoj9go7k1tp99ihvfglt24u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCd-wgh_Leu8ZBO0sv8Lvv1gIQgP0rLgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377463434144-6coaa7dqnhoj9go7k1tp99ihvfglt24u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377463434144-02v3qgmnjr3ljgfi3lsnsc13m3bc4an7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.photogpsdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
